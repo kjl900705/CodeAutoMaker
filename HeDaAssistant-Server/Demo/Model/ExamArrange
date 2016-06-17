@@ -1,0 +1,24 @@
+<?php
+
+class Model_ExamArrange extends PhalApi_Model_NotORM {
+
+
+
+
+    public  function  getEaxmByUserId($userID){
+
+        $exam=DI()->notorm->exam;
+
+        $sql='SELECT * FROM tbl_exam WHERE exam_id IN (SELECT  exam_id FROM  tbl_examArrange WHERE user_id= ?)';
+        $params=array($userID);
+
+        $exam->queryRow($sql,$params);
+
+    }
+
+
+
+
+
+
+}

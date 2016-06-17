@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>SectionFooter</key>
+		<string></string>
+		<key>SectionHeader</key>
+		<string>系统提醒</string>
+		<key>Items</key>
+		<array>
+			<dict>
+				<key>Icon</key>
+				<string>icon_myLesson</string>
+				<key>Title</key>
+				<string>课程提醒</string>
+				<key>AccessoryType</key>
+				<string>UISwitch</string>
+				<key>Data_key</key>
+				<string>SystemNotice_lessonNotice</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>SectionHeader</key>
+		<string>我的提醒</string>
+		<key>SectionFooter</key>
+		<string></string>
+		<key>Items</key>
+		<array>
+			<dict>
+				<key>Icon</key>
+				<string>icon_focus</string>
+				<key>Title</key>
+				<string>关注</string>
+				<key>AccessoryType</key>
+				<string>UIImageView</string>
+				<key>AccessoryName</key>
+				<string>icon_fakeDisclosure</string>
+			</dict>
+			<dict>
+				<key>Icon</key>
+				<string>icon_yinan</string>
+				<key>Title</key>
+				<string>疑难</string>
+				<key>AccessoryType</key>
+				<string>UIImageView</string>
+				<key>AccessoryName</key>
+				<string>icon_fakeDisclosure</string>
+			</dict>
+			<dict>
+				<key>Icon</key>
+				<string>icon_testmyself</string>
+				<key>Title</key>
+				<string>自测</string>
+				<key>AccessoryType</key>
+				<string>UIImageView</string>
+				<key>AccessoryName</key>
+				<string>icon_fakeDisclosure</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

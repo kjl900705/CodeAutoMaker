@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>SectionHeader</key>
+		<string></string>
+		<key>SectionFooter</key>
+		<string></string>
+		<key>Items</key>
+		<array>
+			<dict>
+				<key>Icon</key>
+				<string>settings_official_icon.png</string>
+				<key>Title</key>
+				<string>官方微博</string>
+				<key>AccessoryType</key>
+				<string>UIImageView</string>
+				<key>AccessoryName</key>
+				<string>icon_fakeDisclosure</string>
+			</dict>
+			<dict>
+				<key>Icon</key>
+				<string>settings_feedback_icon.png</string>
+				<key>Title</key>
+				<string>意见反馈</string>
+				<key>AccessoryType</key>
+				<string>UIImageView</string>
+				<key>AccessoryName</key>
+				<string>icon_fakeDisclosure</string>
+			</dict>
+			<dict>
+				<key>Icon</key>
+				<string>settings_rate_icon.png</string>
+				<key>Title</key>
+				<string>给我评分</string>
+				<key>AccessoryType</key>
+				<string>UIImageView</string>
+				<key>AccessoryName</key>
+				<string>icon_fakeDisclosure</string>
+			</dict>
+			<dict>
+				<key>Icon</key>
+				<string>settings_upgrade_icon.png</string>
+				<key>Title</key>
+				<string>新版本检测</string>
+				<key>AccessoryType</key>
+				<string>UIImageView</string>
+				<key>AccessoryName</key>
+				<string>icon_fakeDisclosure</string>
+			</dict>
+			<dict>
+				<key>Icon</key>
+				<string>settings_about_icon.png</string>
+				<key>Title</key>
+				<string>关于</string>
+				<key>AccessoryType</key>
+				<string>UIImageView</string>
+				<key>AccessoryName</key>
+				<string>icon_fakeDisclosure</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
