@@ -50,6 +50,7 @@
 
 
     _uid = [self.view addTextFiled];
+    _uid.text=@"1345030253";
     _uid.frame = CGRectMake(0, 80+startY, SCREEN_WIDTH, 44);
     [_uid setAlpha:0.8f];
     [_uid setBorderStyle:UITextBorderStyleRoundedRect];
@@ -61,7 +62,7 @@
 
 
     _pwd = [self.view addTextFiled];
-    
+    _pwd.text=@"test";
     _pwd.frame = CGRectMake(0, 80+44+startY, SCREEN_WIDTH, 44);
     [_pwd setAlpha:0.8f];
     [_pwd setPlaceholder:@"密码"];
