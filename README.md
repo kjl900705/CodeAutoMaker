@@ -5,3 +5,11 @@
  服务端用 php 写的数据库是 mysql  基于 phlapi 框架
  
  ios 客户端 Object-C  主框架基于    [ CCNavtab ](https://github.com/xiongcaichang/CCNavTab "Title") 一个数组快速搭建UI框架
+
+
+
+
+### 截图
+
+
+<img src="https://github.com/xiongcaichang/hedaAssistantGit/blob/master/demoios.gif" alt="Drawing" width="300px" />
